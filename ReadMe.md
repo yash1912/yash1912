@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on everything AI - Fine-tuning, LLM Agents, RAGs, Recommender Systems,, Computer Vision.<br>✌️ I’m looking to collaborate on: Generative AI and other AI research ideas.<br>🌱 I’m currently learning: Everything AI, Finance, Healthcare.<br>💬 Ask me about: AI, Machine Learning, Data Science, Software development, MLOps.<br>⚡ Fun fact: I started my AI journey after being inspired by Google Pixel.
+🔭 I’m currently working on: Everything AI - Fine-tuning, LLM Agents, RAGs, Recommender Systems,, Computer Vision.<br>✌️ I’m looking to collaborate on: Generative AI and other AI research ideas.<br>🌱 I’m currently learning: Everything AI, Finance, Healthcare.<br>💬 Ask me about: AI, Machine Learning, Data Science, Software development, MLOps.<br>⚡ Fun fact: I started my AI journey after being inspired by Google Pixel.
 
 
 ## 🌐 Socials:
