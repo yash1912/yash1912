@@ -13,9 +13,9 @@ AI Engineer building production LLM agent systems: Text-to-SQL, agent memory, gr
 - Agent memory layer (LangGraph, Qdrant) so user corrections carry across datasets and sessions
 - KaiyaClaw: Slack and Teams analyst agent over 32 MCP tools, with guardrails, OAuth, and real-time voice
 
-**Power Kiosk · Data Scientist** (2024–25): Text-to-SQL support copilot resolving 80% of tickets; BERT ticket classifier at 92%
-**UChicago · GenAI Researcher** (2023–24): AI interview bot at 90% agreement with human assessors; QLoRA and distillation fine-tuning
-**Konverge AI · Senior Data Scientist** (2022–23): RAG Q&A with 4× faster inference; BERT + CNN fraud classifier at 87% precision
+**Power Kiosk · Data Scientist** (2024–25): Text-to-SQL support copilot resolving 80% of tickets; BERT ticket classifier at 92% <br>
+**UChicago · GenAI Researcher** (2023–24): AI interview bot at 90% agreement with human assessors; QLoRA and distillation fine-tuning<br>
+**Konverge AI · Senior Data Scientist** (2022–23): RAG Q&A with 4× faster inference; BERT + CNN fraud classifier at 87% precision<br>
 **TCS · Software Engineer, ML** (2021–22): deep-learning fare prediction on GCP Vertex AI; X-ray imaging model work (+20%)
 
 ## Tech Stack
